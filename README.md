@@ -16,6 +16,8 @@
 
 6. Develop incrementally and test with each increment.
 
+7. Optimize later.
+
 
 **Source:**
 Udacity - Intro to Computer Science - Lesson 10.
